@@ -17,7 +17,6 @@ Web server sederhana yang menampilkan informasi mahasiswa dengan tampilan modern
 - 📱 **Responsive Design** - Tampil sempurna di semua perangkat
 - 🔄 **Real-time Updates** - Status server dan uptime yang update otomatis
 - 🎭 **Interactive Elements** - Hover effects dan animasi
-- 🎉 **Easter Egg** - Klik logo server 5x untuk surprise!
 - 🚀 **Fast Loading** - Optimized untuk performa terbaik
 - 🔒 **HTTPS Secure** - Hosted di GitHub Pages dengan SSL
 
