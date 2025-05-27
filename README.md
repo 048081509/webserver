@@ -9,7 +9,7 @@ Web server sederhana yang menampilkan informasi mahasiswa dengan tampilan modern
 
 ## 🚀 Demo
 
-**Live Demo:** [https://[username].github.io/048081509-webserver/](https://048081509.github.io/webserver/)
+**Live Demo:** [https://048081509.github.io/webserver/]
 
 ## ✨ Fitur
 
